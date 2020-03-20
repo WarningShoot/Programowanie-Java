@@ -1,4 +1,4 @@
-package damian.zajda.kalkulator;
+package zajda.damian.kalkulator;
 
 public class KalkulatorTemperatury {
     public double getFahrenheit(double celcious)
